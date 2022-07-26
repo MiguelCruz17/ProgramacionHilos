@@ -1,2 +1,8 @@
 # ProgramacionHilos
-Nombre: Miguel Angel Cruz Matrícula: 2020-10527
+Nombres: 
+Miguel Angel Cruz 
+Carlos Eduardo Báez 
+
+Matrículas: 
+2020-10527
+2020-10160
